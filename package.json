@@ -1,0 +1,16 @@
+{
+  "name": "primeirodesafio",
+  "version": "1.0.0",
+  "description": "Maratona Full Cycle - Primeiro Desafio",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josemar Lohn <j@lo.hn>",
+  "license": "ISC",
+  "repository": "none",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
